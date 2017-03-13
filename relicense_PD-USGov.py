@@ -108,6 +108,7 @@ searchstrings = [
 	['insource:/navy.mil/', 'PD-USGov-Military-Navy'],
 	['insource:/marines.mil/', 'PD-USMC'],
 	['insource:/army.mil/', 'PD-USArmy'],
+	['insource:/41284017@N08/', 'PD-USGov-USDA', 'Files from the U.S. Department of Agriculture Flickr stream'],
 	['insource:/39736050@N02/', 'PD-USGov-FDA', 'Images from the United States Food and Drug Administration'],
 	['insource:/75182224@N04/', 'PD-USGov-NPS', 'Files from the National Park Service Alaska Region Flickr stream'],
 	['insource:/72578886@N08/', 'PD-USGov-NPS', 'Files from Arches NPS Flickr stream'],
