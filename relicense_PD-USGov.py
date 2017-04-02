@@ -163,6 +163,8 @@ searchstrings = [
 	['insource:/35591378@N03/', 'PD-POTUS', 'Files from the Obama White House Flickr stream'],
 	['insource:/nps.gov/', 'PD-USGov-NPS'],
  	['insource:/42600860@N02/', 'PD-USGov-NPS', 'Files from the U.S. National Parks Service Flickr stream'],
+	['insource:/57424551@N06/', 'PD-USGov-USAID', 'Images from USAID Africa'],
+	['insource:/46658241@N06/', 'PD-USGov-USAID', 'USAID IMAGES'],
 	]
 
 searchcore = 'incategory:"PD US Government" insource:/"{{PD-USGov}}"/ '
