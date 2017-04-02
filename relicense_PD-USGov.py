@@ -163,6 +163,22 @@ searchstrings = [
 	['insource:/35591378@N03/', 'PD-POTUS', 'Files from the Obama White House Flickr stream'],
 	['insource:/nps.gov/', 'PD-USGov-NPS'],
  	['insource:/42600860@N02/', 'PD-USGov-NPS', 'Files from the U.S. National Parks Service Flickr stream'],
+	['insource:/57424551@N06/', 'PD-USGov-USAID', 'Images from USAID Africa'],
+	['insource:/46658241@N06/', 'PD-USGov-USAID', 'USAID IMAGES'],
+	['insource:/41937383@N07', 'PD-USGov-Military-Army-USACE', 'Files from U.S. Army Corps of Engineers Detroit District Flickr stream'],
+	['insource:/40704398@N05', 'PD-USGov-Military-Army-USACE', 'Files from New York District, U.S. Army Corps of Engineers Flickr stream'],
+	['insource:/52057813@N07', 'PD-USGov-Military-Army-USACE', 'Files from U.S. Army Corps of Engineers Sacramento District Flickr stream'],
+	['insource:/52057813@N07', 'PD-USGov-Military-Army-USACE', 'Files from U.S. Army Corps of Engineers Sacramento District Flickr stream'],
+	['insource:/63024684@N05', 'PD-USGov-Military-Army-USACE', 'Files from U.S. Army Corps of Engineers Honolulu District Flickr stream'],
+	['insource:/40175145@N02', 'PD-USGov-Military-Army-USACE', 'Files from U.S. Army Corps of Engineers Jacksonville District Flickr stream'],
+	['insource:/55127822@N07', 'PD-USGov-Military-Army-USACE', 'Files from U.S. Army Corps of Engineers Kansas City District Flickr stream'],
+	['insource:/37721397@N06', 'PD-USGov-Military-Army-USACE', 'Files from U.S. Army Corps of Engineers Louisville District Flickr stream'],
+	['insource:/29327036@N03', 'PD-USGov-Military-Army-USACE', 'Files from U.S. Army Corps of Engineers Norfolk District Flickr stream'],
+	['insource:/45620706@N02', 'PD-USGov-Military-Army-USACE', 'Files from U.S. Army Corps of Engineers Portland District Flickr stream'],
+	['insource:/45417428@N05', 'PD-USGov-Military-Army-USACE', 'Files from U.S. Army Corps of Engineers Savannah District Flickr stream'],
+	['insource:/34728058@N08', 'PD-USGov-Military-Army-USACE', 'Files from U.S. Army Corps of Engineers Europe District Flickr stream'],
+	['insource:/50994559@N03', 'PD-USGov-Military-Army-USACE', 'Files from U.S. Army Corps of Engineers Wilmington District Flickr stream'],
+	['insource:/37353087@N03', 'PD-USGov-Military-Army-USACE', 'Files from U.S. Army Corps of Engineers Tulsa District Flickr stream'],
 	]
 
 searchcore = 'incategory:"PD US Government" insource:/"{{PD-USGov}}"/ '
