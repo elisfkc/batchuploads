@@ -155,6 +155,7 @@ searchstrings = [
 	['insource:/34728058@N08', 'PD-USGov-Military-Army-USACE', 'Files from U.S. Army Corps of Engineers Europe District Flickr stream'],
 	['insource:/50994559@N03', 'PD-USGov-Military-Army-USACE', 'Files from U.S. Army Corps of Engineers Wilmington District Flickr stream'],
 	['insource:/37353087@N03', 'PD-USGov-Military-Army-USACE', 'Files from U.S. Army Corps of Engineers Tulsa District Flickr stream'],
+	['insource:/90628118@N06', 'PD-USNavy', 'Files from the U.S. Office of Naval Research Flickr stream'],
 	]
 
 searchcore = 'incategory:"PD US Government" insource:/"{{PD-USGov}}"/ '
