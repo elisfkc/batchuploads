@@ -88,6 +88,7 @@ searchstrings = [
 	['insource:/navy.mil/', 'PD-USGov-Military-Navy'],
 	['insource:/marines.mil/', 'PD-USMC'],
 	['insource:/army.mil/', 'PD-USArmy'],
+	['insource:/35703177@N00/', 'PD-USArmy', 'Files from the U.S. Army Flickr stream'],
 	['insource:/39736050@N02/', 'PD-USGov-FDA', 'Images from the United States Food and Drug Administration'],
 	['insource:/75182224@N04/', 'PD-USGov-NPS', 'Files from the National Park Service Alaska Region Flickr stream'],
 	['insource:/72578886@N08/', 'PD-USGov-NPS', 'Files from Arches NPS Flickr stream'],
@@ -156,6 +157,8 @@ searchstrings = [
 	['insource:/50994559@N03', 'PD-USGov-Military-Army-USACE', 'Files from U.S. Army Corps of Engineers Wilmington District Flickr stream'],
 	['insource:/37353087@N03', 'PD-USGov-Military-Army-USACE', 'Files from U.S. Army Corps of Engineers Tulsa District Flickr stream'],
 	['insource:/90628118@N06', 'PD-USNavy', 'Files from the U.S. Office of Naval Research Flickr stream'],
+	['insource:/28650594@N03', 'PD-USGov-DOD', 'Photographs by Defense Video and Imagery Distribution System'],
+	['insource:/https://www.dvidshub.net', 'PD-USGov-DOD'],
 	]
 
 searchcore = 'incategory:"PD US Government" insource:/"{{PD-USGov}}"/ '
